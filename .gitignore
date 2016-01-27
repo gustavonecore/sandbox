@@ -1,0 +1,7 @@
+/cache/
+/tests/coverage
+/log/
+/vendor/
+*.DS_Store
+*module-cache/
+composer.phar
